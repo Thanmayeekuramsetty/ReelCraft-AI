@@ -84,6 +84,6 @@ reelcraft-ai
 
 ## Developed By
 
-**Thanmayee Kuramsetty**
+**Thanmayee Kuram Setty**
 
 Built for the **IBM July Challenge – Reimagine Creative Industries with AI**
