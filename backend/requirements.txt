@@ -1,0 +1,7 @@
+flask==3.1.1
+flask-cors==5.0.1
+python-dotenv==1.1.0
+
+# IBM watsonx.ai SDK — required when DEMO_MODE=false
+# Install with: pip install ibm-watsonx-ai
+ibm-watsonx-ai>=1.1.2
