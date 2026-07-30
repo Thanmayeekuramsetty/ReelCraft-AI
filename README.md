@@ -87,3 +87,39 @@ reelcraft-ai
 **Thanmayee Kuram Setty**
 
 Built for the **IBM July Challenge – Reimagine Creative Industries with AI**
+
+
+
+
+
+
+
+## 📸 Application Screenshots
+
+### 🏠 Home Page
+
+![Home](screenshots/home.png)
+
+---
+
+### 📷 Instagram Content Generation
+
+![Instagram](screenshots/Instagram.png)
+
+---
+
+### 💼 LinkedIn Content Generation
+
+![LinkedIn](screenshots/Linkedin.png)
+
+---
+
+### 🎵 TikTok Content Generation
+
+![TikTok](screenshots/Tiktok.png)
+
+---
+
+### ▶️ YouTube Content Generation
+
+![YouTube](screenshots/Youtube.png)
